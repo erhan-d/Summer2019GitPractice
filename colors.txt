@@ -8,5 +8,6 @@ white
 navy blue
 pink
 Orange
+Cyan
 java fun
 1234568
