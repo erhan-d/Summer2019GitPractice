@@ -8,3 +8,4 @@ white
 navy blue
 pink
 Orange
+Cyan
