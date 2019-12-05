@@ -10,8 +10,5 @@ pink
 Orange
 Cyan
 java fun
-<<<<<<< Updated upstream
 Azure
-=======
 gold
->>>>>>> Stashed changes
