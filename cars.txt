@@ -16,3 +16,5 @@ Basak
 elif zeynep
 muhammad ali
 dede
+habip
+nezaket
